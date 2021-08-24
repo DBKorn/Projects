@@ -6,4 +6,3 @@ This project is an web scraper that scrapes the web looking for email addresses 
 2) https://github.com/SMTanami/Al-HaTorah-Search-Engine-Team/blob/addAPI/src/main/java/com/AlHatorah/API/DatabaseUtilities.java
 This project is the work I did for Al-HaTorah, formatting the results of a user's search for the API. Please find the getAPIResult method on approx line 78. this, and all the helper methods is my work.
 
-3)
