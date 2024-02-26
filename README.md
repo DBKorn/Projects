@@ -6,4 +6,4 @@ This is a directory of my projects. Follow the links below to see my work
 4) My implementation of the NYT game Spelling Bee: https://github.com/DBKorn/spellingbee
 5) A simulation of a distributed system using the master-slave architecture: https://github.com/DBKorn/DistributedSystemSimulation
 6) A web scraper that combs the internet to find 10,000 emails and saves them to a database: https://github.com/DBKorn/EmailWebScraper
-
+7) My implementation of Othello https://github.com/DBKorn/othello
