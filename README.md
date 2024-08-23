@@ -1,6 +1,6 @@
 # projects
 This is a directory of my projects. Follow the links below to see my work
-- A library for ads7830 https://github.com/DBKorn/adc7830/tree/main
+- A library for ads7830 https://github.com/DBKorn/adc7830
 - A digital clock made with a raspberry pi https://github.com/DBKorn/DigitalClock
 - Printing 4 letter calcualtor words with 4 digit 7 segment display and raspberry pi: https://github.com/DBKorn/CalculatorWords
 - My implementation of Minesweeper: https://github.com/DBKorn/minesweeper
